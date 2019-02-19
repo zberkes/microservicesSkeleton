@@ -70,7 +70,7 @@
                 </dependency>
             </dependencies>
             <activation>
-                <activeByDefault>false</activeByDefault>
+                <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
 
@@ -94,9 +94,6 @@
                     </exclusions>
                 </dependency>
             </dependencies>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
         </profile>
 
     </profiles>
